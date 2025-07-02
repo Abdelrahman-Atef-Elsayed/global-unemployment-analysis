@@ -22,16 +22,3 @@ This project aims to explore and visualize unemployment rates across different c
 - matplotlib / seaborn / plotly
 - Jupyter Notebook
 
-## 📂 Project Structure
-
-global-unemployment-analysis/
-│
-├── data/
-│ └── unemployment_rate_annual.csv
-│
-├── notebooks/
-│ └── unemployment_analysis.ipynb
-│
-├── README.md
-└── requirements.txt
-
