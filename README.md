@@ -27,3 +27,7 @@ This project aims to explore and visualize unemployment rates across different c
 - Interactive world map showing unemployment rates per country using Plotly.
 - Line charts and bar plots for country-level trend analysis.
 
+## 🔗 Live Demo
+
+[Click here to view the interactive dashboard](https://global-unemployment-analysisgit-f9m34iyndyvjabrl6aqqyd.streamlit.app/)
+
