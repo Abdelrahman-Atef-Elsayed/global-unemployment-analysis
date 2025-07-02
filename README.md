@@ -22,3 +22,8 @@ This project aims to explore and visualize unemployment rates across different c
 - matplotlib / seaborn / plotly
 - Jupyter Notebook
 
+## 🌍 Visualizations
+
+- Interactive world map showing unemployment rates per country using Plotly.
+- Line charts and bar plots for country-level trend analysis.
+
